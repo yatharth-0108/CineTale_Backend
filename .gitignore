@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+train.csv
+kaggle_baseline.csv
+processed/train_clean.csv
+processed/test_split.csv
+processed/sample_recommendations.csv
